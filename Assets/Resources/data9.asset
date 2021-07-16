@@ -1,0 +1,500 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e823a5c83d1a44f43badb05f0ef276f9, type: 3}
+  m_Name: data9
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - word: "\u88C5"
+      pinyin: "zhu\u0101ng"
+      meaning: "\u8A70\u3081\u308B"
+      option1: "\u98FE\u308B"
+      option2: "\u8A70\u3081\u308B"
+      option3: "\u6574\u3048\u308B"
+      option4: "\u7740\u66FF\u3048\u308B"
+    - word: "\u90AE\u5C40"
+      pinyin: "y\xF3u j\xFA"
+      meaning: "\u90F5\u4FBF\u5C40"
+      option1: "\u90F5\u4FBF\u5C40"
+      option2: "\u75C5\u9662"
+      option3: "\u4E8B\u52D9\u5C40"
+      option4: "\u30DD\u30B9\u30C8"
+    - word: "\u5BC4"
+      pinyin: "j\xEC"
+      meaning: "\u90F5\u4FBF\u3067\u9001\u308B"
+      option1: "\u7ACB\u3061\u5BC4\u308B"
+      option2: "\u90F5\u4FBF\u3067\u9001\u308B"
+      option3: "\u624B\u6E21\u3059"
+      option4: "\u63C3\u3048\u308B"
+    - word: "\u5FEB\u9012"
+      pinyin: "ku\xE0i d\xEC"
+      meaning: "\u5B85\u6025\u4FBF"
+      option1: "\u5FEB\u901F\u96FB\u8ECA"
+      option2: "\u30D0\u30B9"
+      option3: "\u5B85\u6025\u4FBF"
+      option4: "\u81EA\u8EE2\u8ECA"
+    - word: "\u53EA"
+      pinyin: "zh\u01D0"
+      meaning: "\u308F\u305A\u304B\u306A"
+      option1: "\u975E\u5E38\u306B"
+      option2: "\u3053\u306E"
+      option3: "\u308F\u305A\u304B\u306A"
+      option4: "\u3059\u3050\u306B"
+    - word: "\u4E0A\u73ED"
+      pinyin: "sh\xE0ng b\u0101n"
+      meaning: "\u51FA\u52E4\u3059\u308B"
+      option1: "\u4ED5\u4E8B\u3092\u3059\u308B"
+      option2: "\u51FA\u52E4\u3059\u308B"
+      option3: "\u30C1\u30FC\u30E0\u306B\u5206\u304B\u308C\u308B"
+      option4: "\u6E96\u5099\u3092\u3059\u308B"
+    - word: "\u67E5"
+      pinyin: "ch\xE1"
+      meaning: "\u8ABF\u3079\u308B"
+      option1: "\u9451\u5B9A\u3059\u308B"
+      option2: "\u63A2\u691C\u3059\u308B"
+      option3: "\u898B\u308B"
+      option4: "\u8ABF\u3079\u308B"
+    - word: "\u5305\u88F9"
+      pinyin: "b\u0101o gu\u01D2"
+      meaning: "\u5C0F\u5305"
+      option1: "\u5C0F\u5305"
+      option2: "\u30D3\u30CB\u30FC\u30EB\u888B"
+      option3: "\u5305\u5E2F"
+      option4: "\u304B\u3070\u3093"
+    - word: "\u5E26"
+      pinyin: "d\xE0i"
+      meaning: "\u643A\u5E2F\u3059\u308B"
+      option1: "\u5DFB\u304F"
+      option2: "\u9577\u3044"
+      option3: "\u4ED8\u3044\u3066\u304F\u308B"
+      option4: "\u643A\u5E2F\u3059\u308B"
+    - word: "\u8BC1\u4EF6"
+      pinyin: "zh\xE8ng ji\xE0n"
+      meaning: "\u8A3C\u660E\u66F8"
+      option1: "\u8A3C\u5238"
+      option2: "\u682A"
+      option3: "\u8A3C\u660E\u66F8"
+      option4: "\u5B66\u751F\u8A3C"
+    - word: "\u7740\u6025"
+      pinyin: "zh\xE1o j\xED"
+      meaning: "\u7126\u308B"
+      option1: "\u7126\u308B"
+      option2: "\u3059\u3050\u306B"
+      option3: "\u3055\u3063\u304D"
+      option4: "\u6025\u3050"
+    - word: "\u53F8\u673A"
+      pinyin: "s\u012B j\u012B"
+      meaning: "\u904B\u8EE2\u624B"
+      option1: "\u5148\u751F"
+      option2: "\u64CD\u4F5C\u5668\u5177"
+      option3: "\u6559\u5353"
+      option4: "\u904B\u8EE2\u624B"
+    - word: "\u968F\u4FBF"
+      pinyin: "su\xED bi\xE0n"
+      meaning: "\u52DD\u624B\u6C17\u307E\u307E\u3067\u3042\u308B"
+      option1: "\u4FBF\u5229\u3067\u3042\u308B"
+      option2: "\u3044\u3064\u3067\u3082\u4F7F\u3048\u308B"
+      option3: "\u52DD\u624B\u6C17\u307E\u307E\u3067\u3042\u308B"
+      option4: "\u7269\u3092\u9001\u308B"
+    - word: "\u9AD8\u5174"
+      pinyin: "g\u0101o x\xECng"
+      meaning: "\u3046\u308C\u3057\u3044"
+      option1: "\u3046\u308C\u3057\u3044"
+      option2: "\u30CF\u30A4\u30EC\u30D9\u30EB\u306E"
+      option3: "\u8208\u596E\u3057\u305F"
+      option4: "\u9AD8\u4FA1\u306A"
+    - word: "\u529E\u516C\u5BA4"
+      pinyin: "b\xE0n g\u014Dng sh\xEC"
+      meaning: "\u30AA\u30D5\u30A3\u30B9"
+      option1: "\u4F1A\u8B70\u5BA4"
+      option2: "\u30AA\u30D5\u30A3\u30B9"
+      option3: "\u5F85\u6A5F\u5BA4"
+      option4: "\u30EA\u30D3\u30F3\u30B0"
+    - word: "\u7F8E\u56FD"
+      pinyin: "m\u011Bi gu\xF3"
+      meaning: "\u30A2\u30E1\u30EA\u30AB"
+      option1: "\u30A2\u30E1\u30EA\u30AB"
+      option2: "\u30A4\u30AE\u30EA\u30B9"
+      option3: "\u30D5\u30E9\u30F3\u30B9"
+      option4: "\u30ED\u30B7\u30A2"
+    - word: "\u865A\u5FC3"
+      pinyin: "x\u016B x\u012Bn"
+      meaning: "\u8B19\u865A\u3067\u3042\u308B"
+      option1: "\u4F55\u3082\u8003\u3048\u3066\u3044\u306A\u3044"
+      option2: "\u5618\u306E"
+      option3: "\u7121\u5FC3\u306B"
+      option4: "\u8B19\u865A\u3067\u3042\u308B"
+    - word: "\u9A84\u50B2"
+      pinyin: "ji\u0101o \xE0o"
+      meaning: "\u50B2\u6162\u3067\u3042\u308B"
+      option1: "\u50B2\u6162\u3067\u3042\u308B"
+      option2: "\u5618\u3064\u304D\u306E"
+      option3: "\u6012\u3063\u3066\u3044\u308B"
+      option4: "\u6B32\u5F35\u308A\u306A"
+    - word: "\u843D\u540E"
+      pinyin: "lu\xF2 h\xF2u"
+      meaning: "\u8131\u843D\u3059\u308B"
+      option1: "\u8EE2\u3052\u843D\u3061\u308B"
+      option2: "\u5012\u308C\u308B"
+      option3: "\u632F\u308A\u5411\u304F"
+      option4: "\u8131\u843D\u3059\u308B"
+    - word: "\u6587\u4EF6"
+      pinyin: "w\xE9n ji\xE0n"
+      meaning: "\u8CC7\u6599"
+      option1: "\u4EF6\u540D"
+      option2: "\u8CC7\u6599"
+      option3: "\u6587\u7AE0"
+      option4: "\u624B\u7D19"
+    - word: "\u53EF\u601C"
+      pinyin: "k\u011B li\xE1n"
+      meaning: "\u304B\u308F\u3044\u305D\u3046\u306A"
+      option1: "\u304B\u308F\u3044\u3044"
+      option2: "\u304B\u3057\u3053\u3044"
+      option3: "\u304B\u308F\u3044\u305D\u3046\u306A"
+      option4: "\u30B3\u30FC\u30E9"
+    - word: "\u652F\u4ED8"
+      pinyin: "zh\u012B f\xF9"
+      meaning: "\u652F\u6255\u3044"
+      option1: "\u6E96\u5099"
+      option2: "\u652F\u6255\u3044"
+      option3: "\u914D\u5E03\u3059\u308B"
+      option4: "\u30DC\u30FC\u30CA\u30B9"
+    - word: "\u65B9\u4FBF"
+      pinyin: "f\u0101ng bi\xE0n"
+      meaning: "\u4FBF\u5229\u3067\u3042\u308B"
+      option1: "\u4F7F\u7528\u53EF\u80FD\u306A"
+      option2: "\u5618"
+      option3: "\u4F7F\u3044\u65B9"
+      option4: "\u4FBF\u5229\u3067\u3042\u308B"
+    - word: "\u968F\u65F6"
+      pinyin: "su\xED sh\xED"
+      meaning: "\u3044\u3064\u3067\u3082"
+      option1: "\u5F90\u3005\u306B"
+      option2: "\u9806\u306B"
+      option3: "\u3059\u3050\u306B"
+      option4: "\u3044\u3064\u3067\u3082"
+    - word: "\u611A\u4EBA\u8282"
+      pinyin: "y\xFA r\xE9n ji\xE9"
+      meaning: "\u30A8\u30A4\u30D7\u30EA\u30EB\u30D5\u30FC\u30EB"
+      option1: "\u99AC\u9E7F"
+      option2: "\u30A8\u30A4\u30D7\u30EA\u30EB\u30D5\u30FC\u30EB"
+      option3: "\u590F\u796D\u308A"
+      option4: "\u30AB\u30FC\u30CB\u30D0\u30EB"
+    - word: "\u4E0A\u5B66"
+      pinyin: "sh\xE0ng xu\xE9"
+      meaning: "\u767B\u6821\u3059\u308B"
+      option1: "\u6388\u696D\u3092\u59CB\u3081\u308B"
+      option2: "\u767B\u6821\u3059\u308B"
+      option3: "\u5B66\u3073\u3092\u5F97\u308B"
+      option4: "\u6210\u7E3E\u304C\u3044\u3044"
+    - word: "\u6234"
+      pinyin: "d\xE0i"
+      meaning: "\u88AB\u308B"
+      option1: "\u66F8\u304F"
+      option2: "\u3082\u3089\u3046"
+      option3: "\u88AB\u308B"
+      option4: "\u8A18\u4E8B\u306B\u8F09\u308B"
+    - word: "\u9A6C\u8DEF"
+      pinyin: "m\u01CE l\xF9"
+      meaning: "\u5927\u901A\u308A"
+      option1: "\u8107\u9053"
+      option2: "\u5927\u901A\u308A"
+      option3: "\u307E\u308F\u308A\u9053"
+      option4: "\u5927\u304D\u306A"
+    - word: "\u786E\u8BA4"
+      pinyin: "qu\xE8 r\xE8n"
+      meaning: "\u78BA\u8A8D\u3059\u308B"
+      option1: "\u78BA\u8A8D\u3059\u308B"
+      option2: "\u59CB\u3081\u308B"
+      option3: "\u7DF4\u7FD2\u3059\u308B"
+      option4: "\u899A\u3048\u308B"
+    - word: "\u8D23\u5907"
+      pinyin: "z\xE9 b\xE8i"
+      meaning: "\u975E\u96E3\u3059\u308B"
+      option1: "\u8B66\u544A\u3059\u308B"
+      option2: "\u975E\u96E3\u3059\u308B"
+      option3: "\u8CAC\u4EFB\u3092\u8CA0\u3046"
+      option4: "\u5F15\u304D\u53D7\u3051\u308B"
+    - word: "\u6389"
+      pinyin: "di\xE0o"
+      meaning: "\u843D\u3061\u308B"
+      option1: "\u3064\u304B\u3080"
+      option2: "\u3059\u304F\u3044\u3068\u308B"
+      option3: "\u843D\u3061\u308B"
+      option4: "\u6ED1\u308B"
+    - word: "\u7AD9"
+      pinyin: "zh\xE0n"
+      meaning: "\u7ACB\u3064"
+      option1: "\u7ACB\u3064"
+      option2: "\u5F85\u3064"
+      option3: "\u304A\u558B\u308A\u3059\u308B"
+      option4: "\u4F7F\u3046"
+    - word: "\u8EBA"
+      pinyin: "t\u01CEng"
+      meaning: "\u5BDD\u8EE2\u3076"
+      option1: "\u5EA7\u308B"
+      option2: "\u5BDD\u8EE2\u3076"
+      option3: "\u80CC\u4F38\u3073\u3059\u308B"
+      option4: "\u7ACB\u3064"
+    - word: "\u5730\u4E0A"
+      pinyin: "d\xEC sh\xE0ng"
+      meaning: "\u5730\u9762"
+      option1: "\u5730\u4E0A"
+      option2: "\u5730\u4E0B"
+      option3: "\u5730\u9762"
+      option4: "\u5730\u4E2D"
+    - word: "\u8336\u53F6"
+      pinyin: "ch\xE1 y\xE8"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u53D6"
+      pinyin: "q\u01D4"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u9700\u8981"
+      pinyin: "x\u016B y\xE0o"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5594"
+      pinyin: "\xF2"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u6821\u5916"
+      pinyin: "xi\xE0o w\xE0i"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5FD8"
+      pinyin: "w\xE0ng"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u53EB"
+      pinyin: "ji\xE0o"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u4F7F"
+      pinyin: "sh\u01D0"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u7559\u5B66"
+      pinyin: "li\xFA xu\xE9"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5357\u65B9"
+      pinyin: "n\xE1n f\u0101ng"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u73A9\u5177"
+      pinyin: "w\xE1n j\xF9"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u591A\u4E48"
+      pinyin: "du\u014D me"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u54EA"
+      pinyin: "n\u01CE"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5982\u679C"
+      pinyin: "r\xFA gu\u01D2"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u8981\u662F"
+      pinyin: "y\xE0o shi"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5C0F\u5B66\u751F"
+      pinyin: "xi\u01CEo xu\xE9 sh\u0113ng"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5931\u8D25"
+      pinyin: "sh\u012B b\xE0i"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u4F4F"
+      pinyin: "zh\xF9"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5409\u7965\u5BFA"
+      pinyin: "j\xED xi\xE1ng s\xEC"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u8B66\u5BDF"
+      pinyin: "j\u01D0ng ch\xE1"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u8EAB\u4EFD"
+      pinyin: "sh\u0113n f\xE8n"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u505C"
+      pinyin: "t\xEDng"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u98DE"
+      pinyin: "f\u0113i"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5B69\u5B50"
+      pinyin: "h\xE1i z\u01D0"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u95EE"
+      pinyin: "w\xE8n"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u8FDB\u6B65"
+      pinyin: "j\xECn b\xF9"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u71D5\u5B50"
+      pinyin: "y\xE0n z\u01D0"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5C0F\u9EC4\u5E3D"
+      pinyin: "xi\u01CEo hu\xE1ng m\xE0o"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u7EA2\u53F6"
+      pinyin: "h\xF3ng y\xE8"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u4E9B"
+      pinyin: "xi\u0113"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5174\u8DA3"
+      pinyin: "x\xECng q\xF9"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u8F66\u8F86"
+      pinyin: "ch\u0113 li\xE0ng"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u6765\u5F80"
+      pinyin: "l\xE1i w\u01CEng"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u4E0B\u5B66"
+      pinyin: "xi\xE0 xu\xE9"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
+    - word: "\u5750"
+      pinyin: "zu\xF2"
+      meaning: 
+      option1: 
+      option2: 
+      option3: 
+      option4: 
